@@ -1,9 +1,9 @@
 {
-  "version_code": 7,
-  "version_name": "1.0.6",
+  "version_code": 8,
+  "version_name": "1.0.7",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.0.6/QuranOmar-release.apk",
-  "file_size": 111174220,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.0.7/QuranOmar-release.apk",
+  "file_size": 111174644,
   "min_sdk": 26,
-  "release_notes": "Fix word selection across all 604 pages: restore authentic calligraphic boundaries, zero word overlaps, and zero marker encroachment while maintaining exact Ayah marker gap positions."
+  "release_notes": "1. Full screen reading by default with edge-to-edge larger lines filling the screen. 2. Header and navigation controls toggled only when explicitly clicking the Surah name. 3. Added red highlight color option."
 }
