@@ -1,9 +1,9 @@
 {
-  "version_code": 9,
-  "version_name": "1.0.8",
+  "version_code": 10,
+  "version_name": "1.0.9",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.0.8/QuranOmar-release.apk",
-  "file_size": 111204881,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.0.9/QuranOmar-release.apk",
+  "file_size": 111203635,
   "min_sdk": 26,
-  "release_notes": "1. Revamped Home Screen with multi-tab list: Surah (default), Juz, and Quarter (displaying Hizb number and authentic first words). 2. Immersive full screen mode that covers the top Android status bar. 3. Always opens the first page of the Surah when clicked (progress is not saved)."
+  "release_notes": "Release v1.0.9: Full Arabic UI, prominent Arabic typography, tightened line spacing with edge-to-edge layout, and GitHub Actions dual-repo release publishing workflow."
 }
