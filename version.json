@@ -1,9 +1,9 @@
 {
-  "version_code": 6,
-  "version_name": "1.0.5",
+  "version_code": 7,
+  "version_name": "1.0.6",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.0.5/QuranOmar-release.apk",
-  "file_size": 111184257,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.0.6/QuranOmar-release.apk",
+  "file_size": 111174220,
   "min_sdk": 26,
-  "release_notes": "Place all 6,236 Ayah markers strictly into authentic calligraphy gaps with 0 text collisions and 0 word selection overlaps across all 604 pages."
+  "release_notes": "Fix word selection across all 604 pages: restore authentic calligraphic boundaries, zero word overlaps, and zero marker encroachment while maintaining exact Ayah marker gap positions."
 }
