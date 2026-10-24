@@ -1,9 +1,9 @@
 {
-  "version_code": 16,
-  "version_name": "1.0.15",
+  "version_code": 17,
+  "version_name": "1.0.16",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.0.15/QuranOmar-release.apk",
-  "file_size": 119295099,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.0.16/QuranOmar-release.apk",
+  "file_size": 119295001,
   "min_sdk": 26,
-  "release_notes": "Release v1.0.15: Pure red calligraphy font on word touch without added boxes; highlight box applied only upon choosing color."
+  "release_notes": "Release v1.0.16: Accurate full-line word gesture detection, restored golden highlighter box, and toggle-off word selection."
 }
