@@ -1,9 +1,9 @@
 {
-  "version_code": 13,
-  "version_name": "1.0.12",
+  "version_code": 14,
+  "version_name": "1.0.13",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.0.12/QuranOmar-release.apk",
-  "file_size": 114542981,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.0.13/QuranOmar-release.apk",
+  "file_size": 119293860,
   "min_sdk": 26,
-  "release_notes": "Release v1.0.12: Full Arabic UI, bigger typography, and calligraphy line view."
+  "release_notes": "Release v1.0.13: Highlights browser by Surah/Juz/Rub/Page, offline Ayah search across the whole Quran, word meanings & Tafsir Al-Muyassar integration."
 }
