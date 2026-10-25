@@ -1,9 +1,9 @@
 {
-  "version_code": 23,
-  "version_name": "1.1.22",
+  "version_code": 24,
+  "version_name": "1.1.23",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.22/QuranOmar-release.apk",
-  "file_size": 119541225,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.23/QuranOmar-release.apk",
+  "file_size": 119586347,
   "min_sdk": 26,
-  "release_notes": "Release v1.1.22: Enhanced tablet two-page reading experience: wider book spread covering 91% of screen, generous authentic book margins (\u062d\u0648\u0627\u0634\u064a \u0627\u0644\u0645\u0635\u062d\u0641) preventing text distortion, Turn.js 3D single-leaf paper turn across center spine, and dedicated page dark mode toggle in the header."
+  "release_notes": "Release v1.1.23: Integrated PageCurl library for 3D page curl animation in tablet two-page reading mode with RTL page navigation and margin tap gestures."
 }
