@@ -1,9 +1,9 @@
 {
-  "version_code": 18,
-  "version_name": "1.1.17",
+  "version_code": 19,
+  "version_name": "1.1.18",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.17/QuranOmar-release.apk",
-  "file_size": 119294981,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.18/QuranOmar-release.apk",
+  "file_size": 119498901,
   "min_sdk": 26,
-  "release_notes": "highlight revamp"
+  "release_notes": "Release v1.1.18: Added Settings page with Page Mode font size control and live Page 3 background preview slider popup, plus pixel-perfect 604-page word selection bounding boxes."
 }
