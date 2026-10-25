@@ -1,9 +1,9 @@
 {
-  "version_code": 25,
-  "version_name": "1.1.24",
+  "version_code": 26,
+  "version_name": "1.1.25",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.24/QuranOmar-release.apk",
-  "file_size": 119539964,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.25/QuranOmar-release.apk",
+  "file_size": 119533309,
   "min_sdk": 26,
-  "release_notes": "Release v1.1.24: Reverted PageCurl library to restore stable navigation in tablet two-page reading mode while preserving the authentic wide book spread layout, generous margins, center spine, and page dark mode."
+  "release_notes": "Release v1.1.25: Reverted custom 3D flip navigation in tablet two-page reading mode in favor of smooth, reliable standard horizontal paging and 1-tap outer margin navigation, while fully preserving the authentic wide book spread aesthetic, generous margins, center spine, gutter shadows, and page dark mode."
 }
