@@ -1,9 +1,9 @@
 {
-  "version_code": 26,
-  "version_name": "1.1.25",
+  "version_code": 27,
+  "version_name": "1.1.26",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.25/QuranOmar-release.apk",
-  "file_size": 119533309,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.26/QuranOmar-release.apk",
+  "file_size": 119534289,
   "min_sdk": 26,
-  "release_notes": "Release v1.1.25: Reverted custom 3D flip navigation in tablet two-page reading mode in favor of smooth, reliable standard horizontal paging and 1-tap outer margin navigation, while fully preserving the authentic wide book spread aesthetic, generous margins, center spine, gutter shadows, and page dark mode."
+  "release_notes": "Release v1.1.26: Compressed the master index (Surahs, Juz, Quarters) to 3 columns with high-density cards for fast navigation; added click-away dismissal for the reader word card so tapping anywhere outside dismisses without selecting adjacent words; and introduced the word-by-word offline audio scraper tool (scripts/scrape_wbw_audio.py) with full documentation."
 }
