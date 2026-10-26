@@ -1,9 +1,9 @@
 {
-  "version_code": 32,
-  "version_name": "1.1.31",
+  "version_code": 33,
+  "version_name": "1.1.32",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.31/QuranOmar-release.apk",
-  "file_size": 119702852,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.32/QuranOmar-release.apk",
+  "file_size": 119703075,
   "min_sdk": 26,
-  "release_notes": "Release v1.1.31: Fixed user registration and authentication by making cloud sync non-blocking, adding seamless auto-login fallback for already-registered emails, isolating remote table sync from auth success, and improving localized Arabic error handling for server and network errors."
+  "release_notes": "Release v1.1.32: Fixed server connection issue on release builds by embedding the production Supabase endpoint and anonymous public key fallbacks into the Gradle release build configuration and GitHub Actions workflow."
 }
