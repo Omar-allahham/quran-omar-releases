@@ -1,9 +1,9 @@
 {
-  "version_code": 28,
-  "version_name": "1.1.27",
+  "version_code": 29,
+  "version_name": "1.1.28",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.27/QuranOmar-release.apk",
-  "file_size": 119593244,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.28/QuranOmar-release.apk",
+  "file_size": 119596402,
   "min_sdk": 26,
-  "release_notes": "Release v1.1.27: Added 100% offline word-by-word pronunciation audio download in Settings with Supabase upload pipeline in scripts/scrape_wbw_audio.py; authentic Hizb markers in two-page tablet outer margins and soft grey line highlighting in single-page view; interactive Ayah marker popup with recitation playback, Tafsir Al-Muyassar, and bookmarking; and full-featured Quran Range Audio Player supporting Surah-to-Surah, Juz-to-Juz, Quarter-to-Quarter, Ayah-to-Ayah, and Page-to-Page playback."
+  "release_notes": "Release v1.1.28: Placed authentic Hizb markers in the empty screen area outside the book spread on tablet displays; added quarter title badges in the header for portrait/vertical reading; and configured export-ignore attributes so releases distribution repository does not package source code."
 }
