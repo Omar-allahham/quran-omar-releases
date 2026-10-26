@@ -1,9 +1,9 @@
 {
-  "version_code": 34,
-  "version_name": "1.1.33",
+  "version_code": 35,
+  "version_name": "1.1.34",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.33/QuranOmar-release.apk",
-  "file_size": 119826941,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.34/QuranOmar-release.apk",
+  "file_size": 119844773,
   "min_sdk": 26,
-  "release_notes": "Release v1.1.33: Fixed word pronunciation audio download with redirect handling, persistent local caching, and multi-source URL support; fixed search popup text font and visibility on parchment background; fixed Ayah share image alignment and rendered using Medina Hafs 18 calligraphy."
+  "release_notes": "Release v1.1.34: Automatic background bookmark & highlight synchronization across devices on change, view open, and app resume; new side navigation drawers for index and reader screens to declutter top bars while keeping login and search accessible."
 }
