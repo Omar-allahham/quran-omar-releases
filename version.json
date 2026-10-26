@@ -1,9 +1,9 @@
 {
-  "version_code": 31,
-  "version_name": "1.1.30",
+  "version_code": 32,
+  "version_name": "1.1.31",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.30/QuranOmar-release.apk",
-  "file_size": 119698939,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.31/QuranOmar-release.apk",
+  "file_size": 119702852,
   "min_sdk": 26,
-  "release_notes": "Release v1.1.30: Added a dedicated remove word highlight action in word details panel; highlighted bookmarked ayahs with transparent continuous boxes matching the bookmark type color; added email authentication and per-user cloud sync with anonymous-to-authenticated data migration; and enabled sharing verses as high-resolution PNG image cards with Uthmanic calligraphy."
+  "release_notes": "Release v1.1.31: Fixed user registration and authentication by making cloud sync non-blocking, adding seamless auto-login fallback for already-registered emails, isolating remote table sync from auth success, and improving localized Arabic error handling for server and network errors."
 }
