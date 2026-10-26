@@ -1,9 +1,9 @@
 {
-  "version_code": 33,
-  "version_name": "1.1.32",
+  "version_code": 34,
+  "version_name": "1.1.33",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.32/QuranOmar-release.apk",
-  "file_size": 119703075,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.33/QuranOmar-release.apk",
+  "file_size": 119826941,
   "min_sdk": 26,
-  "release_notes": "Release v1.1.32: Fixed server connection issue on release builds by embedding the production Supabase endpoint and anonymous public key fallbacks into the Gradle release build configuration and GitHub Actions workflow."
+  "release_notes": "Release v1.1.33: Fixed word pronunciation audio download with redirect handling, persistent local caching, and multi-source URL support; fixed search popup text font and visibility on parchment background; fixed Ayah share image alignment and rendered using Medina Hafs 18 calligraphy."
 }
