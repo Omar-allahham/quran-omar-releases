@@ -1,9 +1,9 @@
 {
-  "version_code": 30,
-  "version_name": "1.1.29",
+  "version_code": 31,
+  "version_name": "1.1.30",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.29/QuranOmar-release.apk",
-  "file_size": 119662708,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.30/QuranOmar-release.apk",
+  "file_size": 119698939,
   "min_sdk": 26,
-  "release_notes": "Release v1.1.29: Added multi-category bookmarks (\u062a\u0644\u0627\u0648\u0629, \u062d\u0641\u0638, \u0645\u0631\u0627\u062c\u0639\u0629, \u062a\u062f\u0628\u0631, \u0645\u0647\u0645) with custom categories, colors, and full CRUD; integrated dynamic playback speed controls (0.5x - 2.0x) in Quran player and range player; enabled background audio playback with lock screen media notification controls; and designed custom Medina Mushaf book logo and launcher app icons."
+  "release_notes": "Release v1.1.30: Added a dedicated remove word highlight action in word details panel; highlighted bookmarked ayahs with transparent continuous boxes matching the bookmark type color; added email authentication and per-user cloud sync with anonymous-to-authenticated data migration; and enabled sharing verses as high-resolution PNG image cards with Uthmanic calligraphy."
 }
