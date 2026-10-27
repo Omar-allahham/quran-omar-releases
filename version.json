@@ -1,9 +1,9 @@
 {
-  "version_code": 39,
-  "version_name": "1.1.38",
+  "version_code": 40,
+  "version_name": "1.1.39",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.38/QuranOmar-release.apk",
-  "file_size": 119882600,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.39/QuranOmar-release.apk",
+  "file_size": 119883106,
   "min_sdk": 26,
-  "release_notes": "Release v1.1.38: Compact icon-only action buttons on phone screens preventing text wrap, prominent 1-tap bookmark removal in ayah popup, corrected RTL ornamental braces on shared card without app branding, new share options to include Tafsir and/or English Translation (image & text), and robust single ayah playback with pause/stop toggle and live recitation sync."
+  "release_notes": "Release v1.1.39: Fix single ayah audio playback by resolving service action stop conflict between playback engines, ensuring uninterrupted verse recitation, pause/resume toggling, and clean notification lifecycle."
 }
