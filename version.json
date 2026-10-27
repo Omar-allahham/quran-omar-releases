@@ -1,9 +1,9 @@
 {
-  "version_code": 40,
-  "version_name": "1.1.39",
+  "version_code": 41,
+  "version_name": "1.1.40",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.39/QuranOmar-release.apk",
-  "file_size": 119883106,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.40/QuranOmar-release.apk",
+  "file_size": 119908884,
   "min_sdk": 26,
-  "release_notes": "Release v1.1.39: Fix single ayah audio playback by resolving service action stop conflict between playback engines, ensuring uninterrupted verse recitation, pause/resume toggling, and clean notification lifecycle."
+  "release_notes": "Release v1.1.40: Restore full Quran range player modes (Surah, Juz, Hizb/Quarter, Page, Ayah-to-Ayah) in the unified right drawer with smart auto-detection, step selectors (including \u00b11 Hizb for quarters), and direct numeric picker dialogs."
 }
