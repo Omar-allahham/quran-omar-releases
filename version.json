@@ -1,9 +1,9 @@
 {
-  "version_code": 38,
-  "version_name": "1.1.37",
+  "version_code": 39,
+  "version_name": "1.1.38",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.37/QuranOmar-release.apk",
-  "file_size": 119872629,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.38/QuranOmar-release.apk",
+  "file_size": 119882600,
   "min_sdk": 26,
-  "release_notes": "Release v1.1.37: Remove floating recitation button from reader view to ensure clean, unobstructed reading of Quran text; page recitation remains directly accessible via the unified side navigation drawer."
+  "release_notes": "Release v1.1.38: Compact icon-only action buttons on phone screens preventing text wrap, prominent 1-tap bookmark removal in ayah popup, corrected RTL ornamental braces on shared card without app branding, new share options to include Tafsir and/or English Translation (image & text), and robust single ayah playback with pause/stop toggle and live recitation sync."
 }
