@@ -1,9 +1,9 @@
 {
-  "version_code": 36,
-  "version_name": "1.1.35",
+  "version_code": 37,
+  "version_name": "1.1.36",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.35/QuranOmar-release.apk",
-  "file_size": 119869381,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.36/QuranOmar-release.apk",
+  "file_size": 119876933,
   "min_sdk": 26,
-  "release_notes": "Release v1.1.35: Side control pill to recite current page with 1 tap; real-time golden recitation highlight for active ayah and rosette in 15-line Mushaf and cards; automatic page flipping with audio playback; unified right-side navigation drawer combining all player controls, reciters, custom ranges, bookmarks, and settings."
+  "release_notes": "Release v1.1.36: Fix Quran recitation player across all 6 Sheikhs using reliable EveryAyah audio streams and ExoPlayer playlist prebuffering; fully unify the right-side navigation drawer across both the Index View and Reader Page View with identical menu positioning, reciter selection, audio controls, and master navigation."
 }
