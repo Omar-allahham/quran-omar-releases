@@ -1,9 +1,9 @@
 {
-  "version_code": 37,
-  "version_name": "1.1.36",
+  "version_code": 38,
+  "version_name": "1.1.37",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.36/QuranOmar-release.apk",
-  "file_size": 119876933,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.37/QuranOmar-release.apk",
+  "file_size": 119872629,
   "min_sdk": 26,
-  "release_notes": "Release v1.1.36: Fix Quran recitation player across all 6 Sheikhs using reliable EveryAyah audio streams and ExoPlayer playlist prebuffering; fully unify the right-side navigation drawer across both the Index View and Reader Page View with identical menu positioning, reciter selection, audio controls, and master navigation."
+  "release_notes": "Release v1.1.37: Remove floating recitation button from reader view to ensure clean, unobstructed reading of Quran text; page recitation remains directly accessible via the unified side navigation drawer."
 }
