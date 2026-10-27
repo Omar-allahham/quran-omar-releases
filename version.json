@@ -1,9 +1,9 @@
 {
-  "version_code": 42,
-  "version_name": "1.1.41",
+  "version_code": 43,
+  "version_name": "1.1.42",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.41/QuranOmar-release.apk",
-  "file_size": 119914919,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.42/QuranOmar-release.apk",
+  "file_size": 119932599,
   "min_sdk": 26,
-  "release_notes": "Release v1.1.41: Persistent in-app updates with background downloads, system progress notification, dismissible/resumable update dialog anchored at the app root, and seamless UI refresh/orientation survival."
+  "release_notes": "Release v1.1.42: Comprehensive Settings Dashboard with full control over Appearance & Theme (System, Light, Dark interface modes, and Mushaf Page Dark Mode), Reading & Display options (Keep Screen On toggle, dynamic font scaling with live Page 3 preview, default reader view mode, word meanings on tap), Audio & Recitation defaults (default reciter selector across 6 reciters, offline word pronunciation DB manager), Storage & Cloud sync (cache size inspection & cleaner, Supabase cloud sync status & login), and one-tap update check."
 }
