@@ -1,9 +1,9 @@
 {
-  "version_code": 44,
-  "version_name": "1.1.43",
+  "version_code": 45,
+  "version_name": "1.1.44",
   "apk_filename": "QuranOmar-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.43/QuranOmar-release.apk",
-  "file_size": 119937725,
+  "apk_url": "https://github.com/Omar-allahham/quran-omar-releases/releases/download/v1.1.44/QuranOmar-release.apk",
+  "file_size": 119937950,
   "min_sdk": 26,
-  "release_notes": "Release v1.1.43: Added image aspect ratio options for Ayah sharing: Portrait (9:16) optimized for WhatsApp Status & Stories with safe zones, Square (1:1) formatted for Instagram & social feeds, and Dynamic Auto fit. Selection persists across app sessions with tailored typography and layout spacing."
+  "release_notes": "Release v1.1.44: Fixed Ayah marker placement and sizing in the phone horizontal one-page view so verse markers align accurately inside the inter-ayah calligraphy spaces across all font scale levels while keeping vertical and two-page spread views unchanged."
 }
